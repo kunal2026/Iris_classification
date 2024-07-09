@@ -26,28 +26,18 @@ Prediction: Provides functionality to make predictions on new data points using 
 
 Clone the repository:
 
-bash
+
 Copy code
 git clone https://github.com/kunal2026/Iris_classification.git
 cd Iris-classification
 Install the required dependencies:
 
-bash
-Copy code
-pip install -r requirements.txt
-Run the main script:
 
-bash
-Copy code
-python iris_classification.py
-Requirements
+## Requirements:
 Python 3.x
 Pandas
 NumPy
 Scikit-learn
-Files
-iris_classification.py: Main script for training and evaluating the classification model.
-iris_data.csv: CSV file containing the Iris dataset.
-requirements.txt: List of Python packages required for the project.
+
 ## Results
 #### The SVM classifier achieves an accuracy of approximately 96.67% on the test set, demonstrating the effectiveness of the model in classifying iris flowers based on their measurements.
