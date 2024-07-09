@@ -28,8 +28,8 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/iris-classification.git
-cd iris-classification
+git clone https://github.com/kunal2026/Iris_classification.git
+cd Iris-classification
 Install the required dependencies:
 
 bash
